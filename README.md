@@ -70,12 +70,14 @@
 
 ###
 
-<h3 align="left">🌀 My Social Media :</h3>
+<h3 align="left">🌀 My Social Media</h3>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=alijosheghani&color=2CA5E0&logoColor=white&labelColor=141321&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="https:/t.me/alijosheghani" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=alijosheghani&color=2CA5E0&logoColor=white&labelColor=141321&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
   <a href="josheghani@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=emial&logo=gmail&label=josheghani@proton.me&color=d93a7c&logoColor=white&labelColor=141321&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
