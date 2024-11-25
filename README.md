@@ -70,33 +70,6 @@
 
 ###
 
-<h3 align="left">🌀 My Social Media</h3>
-
-###
-
-<div align="center">
-  <a href="https://t.me/alijosheghani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=alijosheghani&color=2CA5E0&logoColor=white&labelColor=141321&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="josheghani@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=emial&logo=gmail&label=josheghani@proton.me&color=d93a7c&logoColor=white&labelColor=141321&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-josheghani&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=ali-josheghani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-josheghani&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/ali-josheghani/ali-josheghani/output/snake.svg" alt="Snake animation" />
 
 ###
